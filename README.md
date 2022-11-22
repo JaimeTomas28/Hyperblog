@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y Github
 *El verdadero amor por las buenas prácticas
 *Trucos muy locos del profesor 
 *Las personalidades múltiples de Freddy
+*Creado por el increíble platzi team 
 
 Y como un amable recordatorio. ^^Este read.me es un chiste^^. Diseñado para el ejemplo. Si llegas acá no te lo comas en serio, y mejor ve a ver el curso.
